@@ -1,8 +1,8 @@
 # MusicApp_Clone
 Proyecto Angular que utiliza una Mock Api con datos estáticos como fuene de datos, que emula una app de escuchar música, pudiendo ver canciones y reproducirlas; Al reproducir una canción se puede pausar, reproducir, adelantar y devolver. La funcionalidad de Login parte de un servicio Mock en NodeJs que utiliza solo un usuario.
 
-Usuario: test@test.com  
-Contraseña: 12345678
+👤 Usuario: test@test.com  
+🔑 Contraseña: 12345678
 
 ### Tecnologías Utilizadas
 :keyboard: Node v18.17.0  
