@@ -15,7 +15,7 @@ Contraseña: 12345678
 3. Al terminar ejecutar el comando ▶️ "node app.js" en la terminal para ejecutar el Api
 4. Cuando se ejecuta el proyecto de Node, en terminal sale la dirección de localhost con el puerto en donde se está ejecutando la aplicación
 5. Abrir otra terminal y ubicarse dentro de la carpeta ✉️ "Api_Tracks_Angular"
-6. Ejecutar el compando ▶️ "npm install" en la terminal
+6. Ejecutar el comando ▶️ "npm install" en la terminal
 7. Al terminar, se debe entrar en el proyecto de angular, luego en la carpeta "src", luego en "environments" y validar que las url escritas coincidan con la url que arrojó el Api de Node al ejecutarse (En caso de ser necesario, cambiar por la Url correcta).
 8. Finalmente ejecutar solo uno de los siguientes comandos 🅰️ "ng serve" (para ejecutar únicamente el proyecto) 🅱️ "ng serve -o" (Para ejecutar el proyecto y abrir una ventana en el explorador con la ventana el proyecto)
 9. Iniciar sesión con las credenciales que estan al principio de éste documento ⬆️
